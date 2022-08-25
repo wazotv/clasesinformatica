@@ -5,7 +5,12 @@ Aprenderemos a hacer uso de git y github, los cuales son herramientas para el us
 ##pasos para crear repositorios=>
 
 1.tener git y cuenta github.
-2.configurar usuario y correo en visual studio code.
+2.configurar usuario y correo en visual studio code:
+   -abrimos el terminal y escribimos lo siguiente
+   -git config --global user.name "usuario del git"
+   -git config --global user.email "correo del git"
+   
+
 3.ir al icono (3 nodos )
 4.working directory (inicializar un repositorios)
 5.se selecciona el simbolo + que se encuentra sobre el mnomvre del archivo.
