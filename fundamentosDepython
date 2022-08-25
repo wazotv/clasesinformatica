@@ -1,0 +1,20 @@
+25-08-2022
+
+*lenjuaje de alto nivel
+*interpretado
+*paradigma 
+-funcional
+-orientado a objetos
+*Tipado dinamico:
+
+
+Tipos de datos
+
+*Booleanos:True, False
+*Enteros-10, 0,10,9999
+*flotantes 12.5,15.4661,100.0
+*strings:"" ,'',"123","""","carro","divisas"
+*listas:[],[1,2,3],["a","b","c"],[[1,"a",2,"b"]]
+*Tuplas:(),(1,2,3),("","a","c"),([1,"a",2,"b")
+*diccionarios:{clave:valor,clave:valor,clave3:valor}
+*conjuntos:{1,2,3,4},{"a","b","c"}
