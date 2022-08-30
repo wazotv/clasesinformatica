@@ -1,0 +1,10 @@
+30-08-2022
+
+operadores 
+
+operador de asignacion:=
+operadores aritmeticos: +,-,*,/,//,% **
+operadores logicos: and, or, not 
+operadores comparacion: >,>=,<=,!=
+operadores de pertenencia: in, not in. 1 in [1,2,3]
+operadores de conjuntos:|,&,-
