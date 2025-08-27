@@ -1,0 +1,17 @@
+[Unit]
+Description=UVC-BOT Flask Service (Raspberry Pi)
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=simple
+User=pi
+WorkingDirectory=/home/pi/uvc-bot-rpi
+Environment=PYTHONUNBUFFERED=1
+ExecStart=/home/pi/uvc-bot-rpi/.venv/bin/python /home/pi/uvc-bot-rpi/app.py
+Restart=always
+RestartSec=5
+
+[Install]
+WantedBy=multi-user.target
+

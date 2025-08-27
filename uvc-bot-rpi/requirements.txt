@@ -1,0 +1,4 @@
+Flask==2.3.3
+numpy==1.26.4
+# Nota: opencv y tflite-runtime se instalan vía apt/pip específico en setup_pi.sh
+
